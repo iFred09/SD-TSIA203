@@ -1,4 +1,4 @@
-#SD-TSIA203 (now CSC_4AI07_TP) Labs
+# SD-TSIA203 (now CSC_4AI07_TP) Labs
 
 Labs repository for the 2024-2025 deep learning course (SD-TSIA203 / CSC_4AI07_TP) at Télécom Paris.
 
